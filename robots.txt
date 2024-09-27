@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://midebyto.github.io/sitemap.midebyto.gz
+Sitemap: https://midebyto.github.io/app/sitemap.midebyto.gz
+Sitemap: https://midebyto.github.io/assets/sitemap.midebyto.gz
+Sitemap: https://midebyto.github.io/css/sitemap.midebyto.gz
+Sitemap: https://midebyto.github.io/data/sitemap.midebyto.gz
+Sitemap: https://midebyto.github.io/includes/sitemap.midebyto.gz
+Sitemap: https://midebyto.github.io/item/sitemap.midebyto.gz
+Sitemap: https://midebyto.github.io/src/sitemap.midebyto.gz
